@@ -1,6 +1,5 @@
 # pizzaria
-# Pizzaria house
-#### Pizzaria house is an online pizza ordering web app, 10 jan 2021
+#### Pizzaria is an online pizza ordering web app, 10 jan 2021
 #### By **Yves Mutsinzi**
 ## Description
 The pizza application to order pizza with the choice of home delivery and reservation
