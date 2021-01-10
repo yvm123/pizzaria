@@ -1,0 +1,43 @@
+body{
+  color: azure;
+  background-image: url('../images/wood-back2.jpeg');
+  width: auto;
+}
+.padding{
+  padding: 50px;
+}
+.bg1{
+  background-image: url('../images/slide_2.jpg');
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.bg-form{
+  color: black;
+  background: white;
+}
+.box{
+  border: 15px solid;
+  border-radius: 25px;
+  padding: 25px;
+  margin: 20px;
+}
+.bg3{
+  background-image: url('../images/footback.jpeg');
+  height:auto;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+#contact .form-control{
+  background: transparent;
+}
+#contact .form-row ::placeholder {
+  color:white;
+}
+#contact .form-group ::placeholder {
+  color:white;
+}
